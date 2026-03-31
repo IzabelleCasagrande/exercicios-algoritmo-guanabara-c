@@ -16,5 +16,20 @@ O repositório está organizado por módulos e temas para facilitar a navegaçã
 - **VS Code** (Ambiente de Desenvolvimento)
 - **Git & GitHub** (Controlo de Versão)
 
+## 📊 Progresso dos Exercícios (100 Desafios)
+
+| Desafio | Título / Objetivo | Nome do Arquivo | Status |
+| :---: | :--- | :--- | :---: |
+| 001 | Olá, Mundo! | `ex01_ola_mundo.c` | 🔄 Em Progresso |
+| 002 | Boas-vindas | `ex02_boas_vindas.c` | ⏳ Pendente |
+| 003 | Salário de Funcionário | `ex03_salario_funcionario.c` | ⏳ Pendente |
+| 004 | Somador de Números | `ex04_somador.c` | ⏳ Pendente |
+| 005 | Média Aritmética | `ex05_media_notas.c` | ⏳ Pendente |
+
+**Legenda:**
+- ✅ Finalizado
+- 🔄 Em Revisão / Fazendo
+- ⏳ Pendente
+
 ---
 *Estudos realizados por Izabelle Casagrande.*
