@@ -1,0 +1,7 @@
+# Ignorar arquivos executáveis do Windows gerados pelo compilador
+*.exe
+
+# Ignorar arquivos binários sem extensão (comuns quando o Run Code compila)
+ex0*
+Modulo*/*
+!*.c
