@@ -2,7 +2,8 @@
 Ex:Digite um número: 9 O antecessor de 9 é 8 O sucessor de 9 é 10*/
 
 #include <stdio.h>
-#include <locale.h>
+#include <locale.h> /*Biblioteca descoberta para utilização de acentos nas palavras. Evitando que o computador se atrapalhe na leitura
+do código, pois ele não está preparado para nossa língua.*/
 
 int main() {
   int n1,ant,suc;
