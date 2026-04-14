@@ -20,11 +20,17 @@ O repositório está organizado por módulos e temas para facilitar a navegaçã
 
 | Desafio | Título / Objetivo | Nome do Arquivo | Status |
 | :---: | :--- | :--- | :---: |
-| 001 | Olá, Mundo! | `ex01_ola_mundo.c` | 🔄 Em Progresso |
-| 002 | Boas-vindas | `ex02_boas_vindas.c` | ⏳ Pendente |
-| 003 | Salário de Funcionário | `ex03_salario_funcionario.c` | ⏳ Pendente |
-| 004 | Somador de Números | `ex04_somador.c` | ⏳ Pendente |
-| 005 | Média Aritmética | `ex05_media_notas.c` | ⏳ Pendente |
+| 001 | Olá, Mundo! | `ex01_ola_mundo.c` | ✅ |
+| 002 | Boas-vindas | `ex02_boas_vindas.c` | ✅ |
+| 003 | Salário de Funcionário | `ex03_salario_funcionario.c` | ✅ |
+| 004 | Somador de Números | `ex04_somador.c` | ✅ |
+| 005 | Média Aritmética | `ex05_media_notas.c` | ✅ |
+| 006 | Antecessor e Sucessor | `ex06_antecessor_sucessor.c` | ⏳ |
+| 007 | Dobro e Terça Parte| `ex07_dobro_terca.c` | ⏳ |
+| 008 | Conversor de Medidas | `ex08_conversor_medidas.c` | ⏳ |
+| 009 | Conversor de Moedas | `ex09_conversor_moedas.c` | ⏳ |
+| 010 | Cálculo de Tinta | `ex010_calculo_tinta.c` | ⏳ |
+| 011 | Cálculo de Delta | `ex011_calculo_delta.c` | ⏳ |
 
 **Legenda:**
 - ✅ Finalizado
