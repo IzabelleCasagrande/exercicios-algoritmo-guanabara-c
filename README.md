@@ -36,10 +36,10 @@ O repositório está organizado por módulos e temas para facilitar a navegaçã
 | 014 | Locadora de Carros | `ex014_locadora_carros.c` | ✅ |
 | 015 | Dias trabalhados | `ex015_salario_dias.c` | ✅ |
 | 016 | [DESAFIO] Vida de fumante | `ex016_desafio_fumante.c` | ✅ |
-| 017 | Multa de Velocidade | `ex017_multa_velocidade.c` | ⏳ |
-| 018 | Verificador de Voto | `ex018_voto_obrigatorio.c` | ⏳ |
-| 019 | Média de Notas (A/R) | `ex019_situacao_aluno.c` | ⏳ |
-| 020 | Par ou Ímpar | `ex020_par_ou_impar.c` | ⏳ |
+| 017 | Multa de Velocidade | `ex017_multa_velocidade.c` | ✅ |
+| 018 | Verificador de Voto | `ex018_voto_obrigatorio.c` | ✅ |
+| 019 | Média de Notas (A/R) | `ex019_situacao_aluno.c` | ✅ |
+| 020 | Par ou Ímpar | `ex020_par_ou_impar.c` | ✅ |
 | 021 | Ano Bissexto | `ex021_ano_bissexto.c` | ⏳ |
 | 022 | Alistamento Militar | `ex022_alistamento_militar.c` | ⏳ |
 | 023 | Promoção Dia das Mulheres | `ex023_promocao_mulheres.c` | ⏳ |
