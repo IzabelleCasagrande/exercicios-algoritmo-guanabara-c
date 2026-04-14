@@ -31,12 +31,21 @@ O repositório está organizado por módulos e temas para facilitar a navegaçã
 | 009 | Conversor de Moedas | `ex09_conversor_moedas.c` | ✅ |
 | 010 | Cálculo de Tinta | `ex010_calculo_tinta.c` | ✅ |
 | 011 | Cálculo de Delta | `ex011_calculo_delta.c` | ✅ |
-| 012 | Preço com 5% de Desconto | `ex012_desconto.c` | ⏳ |
-| 013 | Aumento Salarial (+15%) | `ex013_aumento_salarial.c` | ⏳ |
-| 014 | Locadora de Carros | `ex014_locadora_carros.c` | ⏳ |
-| 015 | Dias trabalhados | `ex015_salario_dias.c` | ⏳ |
-| 016 | [DESAFIO] Vida de fumante | `ex016_desafio_fumante.c` | ⏳ |
-		
+| 012 | Preço com 5% de Desconto | `ex012_desconto.c` | ✅ |
+| 013 | Aumento Salarial (+15%) | `ex013_aumento_salarial.c` | ✅ |
+| 014 | Locadora de Carros | `ex014_locadora_carros.c` | ✅ |
+| 015 | Dias trabalhados | `ex015_salario_dias.c` | ✅ |
+| 016 | [DESAFIO] Vida de fumante | `ex016_desafio_fumante.c` | ✅ |
+| 017 | Multa de Velocidade | `ex017_multa_velocidade.c` | ⏳ |
+| 018 | Verificador de Voto | `ex018_voto_obrigatorio.c` | ⏳ |
+| 019 | Média de Notas (A/R) | `ex019_situacao_aluno.c` | ⏳ |
+| 020 | Par ou Ímpar | `ex020_par_ou_impar.c` | ⏳ |
+| 021 | Ano Bissexto | `ex021_ano_bissexto.c` | ⏳ |
+| 022 | Alistamento Militar | `ex022_alistamento_militar.c` | ⏳ |
+| 023 | Promoção Dia das Mulheres | `ex023_promocao_mulheres.c` | ⏳ |
+| 024 | Preço da Passagem (km) | `ex024_preco_passagem.c` | ⏳ |
+| 025 | [DESAFIO] Triângulo | `ex025_desafio_triangulo.c` | ⏳ |
+
 **Legenda:**
 - ✅ Finalizado
 - 🔄 Em Revisão / Fazendo
