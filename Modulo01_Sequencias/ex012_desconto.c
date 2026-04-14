@@ -7,7 +7,7 @@ int main() {
 
     setlocale(LC_ALL,"pt_BR.UTF-8");
 
-    float preco,precso_promocional,desconto;
+    float preco,preco_promocional,desconto;
 
     printf("=======================================================\n");
     printf("                  CALCULADORA DE DESCONTO              \n");    
