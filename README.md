@@ -25,13 +25,18 @@ O repositório está organizado por módulos e temas para facilitar a navegaçã
 | 003 | Salário de Funcionário | `ex03_salario_funcionario.c` | ✅ |
 | 004 | Somador de Números | `ex04_somador.c` | ✅ |
 | 005 | Média Aritmética | `ex05_media_notas.c` | ✅ |
-| 006 | Antecessor e Sucessor | `ex06_antecessor_sucessor.c` | ⏳ |
-| 007 | Dobro e Terça Parte| `ex07_dobro_terca.c` | ⏳ |
-| 008 | Conversor de Medidas | `ex08_conversor_medidas.c` | ⏳ |
-| 009 | Conversor de Moedas | `ex09_conversor_moedas.c` | ⏳ |
-| 010 | Cálculo de Tinta | `ex010_calculo_tinta.c` | ⏳ |
-| 011 | Cálculo de Delta | `ex011_calculo_delta.c` | ⏳ |
-
+| 006 | Antecessor e Sucessor | `ex06_antecessor_sucessor.c` | ✅ |
+| 007 | Dobro e Terça Parte| `ex07_dobro_terca.c` | ✅ |
+| 008 | Conversor de Medidas | `ex08_conversor_medidas.c` | ✅ |
+| 009 | Conversor de Moedas | `ex09_conversor_moedas.c` | ✅ |
+| 010 | Cálculo de Tinta | `ex010_calculo_tinta.c` | ✅ |
+| 011 | Cálculo de Delta | `ex011_calculo_delta.c` | ✅ |
+| 012 | Preço com 5% de Desconto | `ex012_desconto.c` | ⏳ |
+| 013 | Aumento Salarial (+15%) | `ex013_aumento_salarial.c` | ⏳ |
+| 014 | Locadora de Carros | `ex014_locadora_carros.c` | ⏳ |
+| 015 | Dias trabalhados | `ex015_salario_dias.c` | ⏳ |
+| 016 | [DESAFIO] Vida de fumante | `ex016_desafio_fumante.c` | ⏳ |
+		
 **Legenda:**
 - ✅ Finalizado
 - 🔄 Em Revisão / Fazendo
