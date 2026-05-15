@@ -40,11 +40,14 @@ O repositório está organizado por módulos e temas para facilitar a navegaçã
 | 018 | Verificador de Voto | `ex018_voto_obrigatorio.c` | ✅ |
 | 019 | Média de Notas (A/R) | `ex019_situacao_aluno.c` | ✅ |
 | 020 | Par ou Ímpar | `ex020_par_ou_impar.c` | ✅ |
-| 021 | Ano Bissexto | `ex021_ano_bissexto.c` | ⏳ |
-| 022 | Alistamento Militar | `ex022_alistamento_militar.c` | ⏳ |
-| 023 | Promoção Dia das Mulheres | `ex023_promocao_mulheres.c` | ⏳ |
-| 024 | Preço da Passagem (km) | `ex024_preco_passagem.c` | ⏳ |
-| 025 | [DESAFIO] Triângulo | `ex025_desafio_triangulo.c` | ⏳ |
+| 021 | Ano Bissexto | `ex021_ano_bissexto.c` | ✅ |
+| 022 | Alistamento Militar | `ex022_alistamento_militar.c` | ✅ |
+| 023 | Promoção Dia das Mulheres | `ex023_promocao_mulheres.c` | ✅ |
+| 024 | Preço da Passagem (km) | `ex024_preco_passagem.c` | ✅ |
+| 025 | [DESAFIO] Triângulo | `ex025_desafio_triangulo.c` | ✅ |
+| 026 | Comparando Números | `ex026_maior_menor.c` | ✅ |
+| 027 | Média com Recuperação | `ex027_media_recuperacao.c` | ✅ |
+| 028 | Classificação de Terrenos | `ex028_classificacao_terreno.c` | ✅ |
 
 **Legenda:**
 - ✅ Finalizado
