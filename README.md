@@ -48,6 +48,11 @@ O repositório está organizado por módulos e temas para facilitar a navegaçã
 | 026 | Comparando Números | `ex026_maior_menor.c` | ✅ |
 | 027 | Média com Recuperação | `ex027_media_recuperacao.c` | ✅ |
 | 028 | Classificação de Terrenos | `ex028_classificacao_terreno.c` | ✅ |
+| 029 | Reajuste por tempo de casa | `ex029_reajuste_tempo.c` | ✅  |
+| 030 | **[DESAFIO]** Triângulos | `ex030_tipo_triangulo.c` | ✅ |
+| 031 | **[DESAFIO]** Jokenpô | `ex031_jokenpo.c` | ✅|
+| 032 | **[DESAFIO]** Adivinhação | `ex032_adivinhacao.c` | ⏳ |
+| 033 | Empréstimo Bancário | `ex033_aprovacao_emprestimo.c` | ✅ |
 
 **Legenda:**
 - ✅ Finalizado
